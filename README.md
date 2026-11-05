@@ -42,6 +42,8 @@
 
 **Done：** Skill 可加载 + 试点日志 + PR 材料齐备。
 
+**草稿已入库（未验收）：** `skills/orchivane-grok-bot/`（`SKILL.md` 与 `references/`）以及 `docs/GROK_BOT_GUIDE.md`。内容为草稿，尚未标「测过了」。
+
 ## P2 — Codex 第 6 版放行（可做）
 
 **输入线索：** 候选包 `第6版_候选包_源码可核_1647.zip`（约 41 文件），含 md5 / diff / 测试；三处必改已宣称落实；本阶段**不加新功能**。
@@ -88,6 +90,9 @@ P3 加载/派发 ─────────────▲
 README.md                 ← 本文件（第一版）
 docs/
   截图内容项目梳理.md     ← 完整三项目说明
+  GROK_BOT_GUIDE.md       ← Grok Bot 实现指南草稿
+skills/
+  orchivane-grok-bot/     ← Skill 适配草稿（SKILL.md + references/）
 ```
 
 ## 贡献约定
